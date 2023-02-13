@@ -1,7 +1,31 @@
 #logo{
     padding-top: 50px;
     padding-right: 80%;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     background-image: url(../img/pattern.png);
     background-color: lightblue;
+}
+
+h1{
+    padding-top: 20px;
+    padding-right: 50%;
+    font-size: 40px;
+}
+
+.class-blue{
+    color: blue;
+}
+
+.grey{
+    color: grey;
+}
+
+
+
+.sezione2{
+    margin-top: 30px;
+    margin-left: 2px;
+}
+.testo-foto{
+    font-size: 13px;
 }
