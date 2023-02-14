@@ -1,6 +1,5 @@
 body{
     text-align: left;
-    margin-right: 800px;
     margin-left: 2px;
 }
 
@@ -9,12 +8,10 @@ body{
     padding-right: 80%;
     padding-bottom: 10px;
     background-image: url(../img/pattern.png);
-    background-color: lightblue;
+    background-color: #186ecf;
     background-repeat: repeat;
+    background-;
 }
-
-
-
 
 h1{
     padding-top: 20px;
@@ -22,7 +19,7 @@ h1{
 }
 
 .class-blue{
-    color: blue;
+    color: rgb(68, 68, 236);
 }
 
 .grey{
@@ -38,15 +35,20 @@ h1{
 }
 
 thead{
-    background-color: blue;
+    background-color: rgb(45, 45, 170);
     color: white;
 
 }
 
 .sfondo-azzurro{
-    background-color: lightblue;
+    background-color: rgb(50, 171, 211);
 }
-
+td{
+    padding: 10px;
+}
+.col1{
+    width: 30%;
+}
 .immagine1{
     color: white;
     background-image: url("../img/monitor.jpg");

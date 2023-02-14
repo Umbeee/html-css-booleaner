@@ -3,4 +3,10 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+} 
+table{
+    border-spacing: 0;
+}
+li{
+    margin-left: 1em;
 }
